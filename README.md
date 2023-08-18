@@ -1,4 +1,4 @@
-# Telco Customer Churn Analysis 
+# Customer Churn Analysis 
 
 This project performs analysis on the Telco Customer Churn dataset to predict whether a customer will churn.
 
